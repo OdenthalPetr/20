@@ -1,0 +1,21 @@
+.mainContainer {
+    width: auto;
+    height: 30rem;
+    text-align: center;
+    margin: 50px;
+    background-image: url(https://cdn.pixabay.com/photo/2020/06/07/04/08/landscape-5268894_1280.jpg);
+    position: relative;
+
+}
+.myButton {
+	margin-top: 180px;
+    background:linear-gradient(to bottom, #2dabf9 5%, #0688fa 100%);
+	border-radius:3px;
+	font-size:20px;
+	padding:5px 19px;
+	text-decoration:none;
+
+}
+body{
+    background-color: #333232;
+}
